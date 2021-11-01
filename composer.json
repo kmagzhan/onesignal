@@ -1,27 +1,12 @@
 {
-    "name": "laravel-notification-channels/onesignal",
-    "description": "OneSignal Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/onesignal",
+    "name": "kmagzhan/onesignal",
+    "description": "From of OneSignal Notifications driver",
+    "homepage": "https://github.com/kmagzhan/onesignal",
     "license": "MIT",
-    "authors": [{
-            "name": "Marcel Pociot",
-            "email": "hello@marcelpociot.com",
-            "homepage": "http://marcelpociot.com"
-        },
+    "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be"
-        },
-        {
-          "name": "Lukas Kämmerling",
-          "email": "kontakt@lukas-kaemmerling.de",
-          "homepage": "https://lukas-kaemmerling.de"
-        },
-        {
-          "name": "David Llop",
-          "email": "hello@davidllop.com",
-          "homepage": "http://davidllop.com"
+            "name": "kmagzhan",
+            "email": "k.magzhan@gmail.com"
         }
     ],
     "require": {
