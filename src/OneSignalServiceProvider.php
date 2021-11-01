@@ -13,6 +13,7 @@ class OneSignalServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+
         $this->app->when(OneSignalChannel::class)
             ->needs(OneSignalClient::class)
             ->give(function () {
